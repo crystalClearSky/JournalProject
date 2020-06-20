@@ -1,0 +1,9 @@
+C:\Code\Projects\JournalAppProject\JournalApp\bin\Debug\netcoreapp3.1\JournalApp.Core.deps.json
+C:\Code\Projects\JournalAppProject\JournalApp\bin\Debug\netcoreapp3.1\JournalApp.Core.dll
+C:\Code\Projects\JournalAppProject\JournalApp\bin\Debug\netcoreapp3.1\JournalApp.Core.pdb
+C:\Code\Projects\JournalAppProject\JournalApp\obj\Debug\netcoreapp3.1\JournalApp.Core.csprojAssemblyReference.cache
+C:\Code\Projects\JournalAppProject\JournalApp\obj\Debug\netcoreapp3.1\JournalApp.Core.AssemblyInfoInputs.cache
+C:\Code\Projects\JournalAppProject\JournalApp\obj\Debug\netcoreapp3.1\JournalApp.Core.AssemblyInfo.cs
+C:\Code\Projects\JournalAppProject\JournalApp\obj\Debug\netcoreapp3.1\JournalApp.Core.csproj.CoreCompileInputs.cache
+C:\Code\Projects\JournalAppProject\JournalApp\obj\Debug\netcoreapp3.1\JournalApp.Core.dll
+C:\Code\Projects\JournalAppProject\JournalApp\obj\Debug\netcoreapp3.1\JournalApp.Core.pdb

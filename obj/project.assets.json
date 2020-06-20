@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Projects\\JournalAppProject\\JournalApp\\JournalApp.csproj",
-      "projectName": "JournalApp",
-      "projectPath": "C:\\Code\\Projects\\JournalAppProject\\JournalApp\\JournalApp.csproj",
+      "projectUniqueName": "C:\\Code\\Projects\\JournalAppProject\\JournalApp\\JournalApp.Core.csproj",
+      "projectName": "JournalApp.Core",
+      "projectPath": "C:\\Code\\Projects\\JournalAppProject\\JournalApp\\JournalApp.Core.csproj",
       "packagesPath": "C:\\Users\\Justice\\.nuget\\packages\\",
       "outputPath": "C:\\Code\\Projects\\JournalAppProject\\JournalApp\\obj\\",
       "projectStyle": "PackageReference",
